@@ -1,0 +1,2 @@
+- Two-way Binding ràng buộc 2 chiều VueJS
+- One-way Binding ràng buộc 1 chiều ReactJS
